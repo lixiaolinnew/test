@@ -1,0 +1,37 @@
+CARETTA SOFTWARE LTD
+END-USER LICENSE AGREEMENT
+
+IMPORTANT - READ CAREFULLY:  This End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and Caretta Software Ltd ("Caretta Software").  By installing, copying, or otherwise using the SOFTWARE, you agree to be bound by the terms of this EULA.  If you do not agree to the terms of this EULA, do not install, copy, or use the SOFTWARE.
+
+This SOFTWARE is licensed not sold.  You may use this SOFTWARE only as described in this license.
+
+1.  SOFTWARE.  The term "SOFTWARE" refers to the computer program executables, any updates, supplemental code or programs provided to you by Caretta Software, the user manuals for them, any components of them, any related media and printed materials, and any related "online" or electronic documentation.
+
+2.  COPYRIGHT.  The SOFTWARE is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.  You acknowledge that you have only the limited, non-exclusive right to use and copy the SOFTWARE as expressly stated in this license and that Caretta Software retains title to the SOFTWARE and all other rights not expressly granted.  You agree not to remove or modify any copyright, trademark or other proprietary notices which appear on, in or with the SOFTWARE.
+
+3. OWNERSHIP.  The SOFTWARE is owned and copyrighted by Caretta Software.  Your license confers no title or ownership in the SOFTWARE and should not be construed as a sale of any right in the SOFTWARE.
+
+4. GRANT OF LICENSE.  This EULA grants you the following non-exclusive, non-transferable rights:
+
+* Evaluation License.  If you acquired the license for the SOFTWARE on an evaluation or trial basis, you may use the SOFTWARE without charge for thirty (30) days from the day that you install the SOFTWARE.  You must pay the license fee and register your copy to continue to use the SOFTWARE after the thirty (30) day evaluation period.  To pay the license fee and register your copy, you should visit www.carettasoftware.com or an authorized sales agent.  For so long as the SOFTWARE is the most current version distributed by Caretta Software, you may give exact copies of the evaluation SOFTWARE to anyone in the form of its original installer and not the set of files resulting from running the installer.  You may not charge any fee for the copy or use of the evaluation SOFTWARE itself, but you may charge a distribution fee that is reasonably related to any cost you incur distributing the evaluation SOFTWARE (e.g. packaging).  You must not represent in any way that you are selling the SOFTWARE itself.  Your distribution of the evaluation SOFTWARE will not entitle you to any compensation from Caretta Software.  You must distribute a copy of this license with any copy of the SOFTWARE and anyone to whom you distribute the SOFTWARE is subject to this license.  You may not remove any copyright, trademark or reservation of rights language displayed on, in or with the SOFTWARE.
+
+* User License.  When you purchase a user license you will be provided with a license key.  You should enable the registered license for the SOFTWARE by entering the license key as prompted by the SOFTWARE.  You may use the registered SOFTWARE on that number of computers for which you have purchased a separate license.  If the SOFTWARE is installed on a network server or other storage device, you must purchase a license for each separate computer on which the SOFTWARE is used.  A license for the SOFTWARE may not be shared by alternating use of the SOFTWARE between different computers.  The primary user of a computer for which a license has been purchased may make and use one copy of the SOFTWARE license on his or her portable computer.
+
+* Site License.  When you purchase a site license you will be provided with a license key.  You should enable the registered license for the SOFTWARE by entering the license key as prompted by the SOFTWARE.  You may use the registered SOFTWARE on any number of computers within a single site of the company or corporation or enterprise or organisation for which the license was purchased.
+
+* Corporate License.  When you purchase a corporate license you will be provided with a license key.  You should enable the registered license for the SOFTWARE by entering the license key as prompted by the SOFTWARE.  You may use the registered SOFTWARE on any number of computers within the company or corporation or enterprise or organisation for which the license was purchased.
+
+* Sample Files.  You may modify the sample project, design and image files provided with the SOFTWARE on condition that if the modified files are re-distributed, it must be made clear to the recipient that they are not the original files provided by Caretta Software.
+
+5.  RESTRICTIONS.  You may not reduce the SOFTWARE to human readable form, reverse engineer, de-compile, disassemble or modify the SOFTWARE, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.  You may not rent, lease, or lend the SOFTWARE.  You may not use the SOFTWARE to perform any unauthorized transfer of information, such as copying or transferring a file in violation of a copyright, or for any illegal purpose.
+
+6.  SUPPORT SERVICES.  Caretta Software may provide you with support services related to the SOFTWARE.  Use of support services is governed by the user’s manual, online documentation, and other Caretta Software materials, as they may be modified from time to time.  Caretta Software may use any information you provide as part of obtaining support services for its business purposes, including product support and development.
+
+7.  TERMINATION.  This license terminates if you fail to comply with its terms and conditions.  If your license terminates, you must destroy all copies of the SOFTWARE.  The termination of this license does not limit Caretta Software’s other rights it may have by law.
+
+8.  NO WARRANTIES.  To the extent permitted by applicable law, the SOFTWARE is provided "as is" without warranty of any kind, either express or implied, including, without limitation, the implied warranties of merchantability, fitness for a particular purpose, or noninfringement.  The SOFTWARE is provided with all faults and the entire risk as to satisfactory quality, performance, accuracy and effort is with you.
+
+9.  LIMITATION OF LIABILITY.  Caretta Software is not liable to you for any consequential, special, incidental, or indirect damages of any kind arising out of the delivery, performance, or use of the SOFTWARE, even if Caretta Software has been advised of the possibility of such damages.  Caretta Software’s liability, for any claim related to your purchase or use of the SOFTWARE, whether in contract, tort, or any other theory of liability will not exceed the license fee paid by you.
+
+10.  ENTIRE AGREEMENT.  This is the entire agreement between you and Caretta Software which supersedes any prior agreement or understanding, whether written or oral, relating to the subject matter of this license.
+

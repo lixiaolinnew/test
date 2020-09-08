@@ -1,0 +1,14 @@
+<Workspace
+	CID = "1"
+	NextCID = "2"
+	IconCategory = "Miscellaneous">
+	<OpenFiles
+		CID = "1"
+		LastActive = "1">
+		<File
+			FileID = "502C48FA-0560-446A-AAC17603084769CC"
+			RootPath = "$Container"
+			RelativePathname = "Read Me.gui"
+			ViewSettings = ""/>
+	</OpenFiles>
+</Workspace>

@@ -1,0 +1,198 @@
+<Screen
+	CID = "1251609713"
+	AppID = "2"
+	AppVer = "4.3.136.0"
+	DocID = ""
+	HasCanvas = "1"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "1355970877"
+			Type = "FrameWindow"
+			X = "112"
+			Y = "98"
+			Width = "400"
+			Height = "300"
+			Flags = "0"
+			WindowColour = "250,250,250,0,21"
+			Typeface = "华文中宋"
+			FontAttributes = "1"
+			TextSize = "Large"
+			Title = "         集中监测系统 登录"
+			TitleBarHeight = "25"
+			IconMargin = "12"
+			BorderSize = "4"
+			IsBorderless = "0"
+			IsActive = "1"
+			IsDocWindow = "0"
+			HasSunkenWindow = "1"
+			CentreText = "0"
+			UseMutedColours = "1"
+			Mirror = "0"
+			Buttons = "7"
+			Icon = ""/>
+		<Element
+			CID = "1135101870"
+			Type = "EditBox"
+			X = "232"
+			Y = "199"
+			Width = "178"
+			Height = "21"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = " 请输入您的账号"
+			IsDisabled = "0"
+			IsReadOnly = "0"
+			IsTransparent = "0"
+			HasBorder = "1"
+			HorzAlign = "Left"
+			EditType = "Text"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "255,255,153,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "164,185,127,0,12"/>
+		<Element
+			CID = "645937132"
+			Type = "TextButton"
+			X = "235"
+			Y = "260"
+			Width = "172"
+			Height = "23"
+			Flags = "0"
+			TextColour = "21,66,139,0,39"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "立即登录"
+			Depth = "2"
+			IsDefault = "1"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = "Accept"/>
+		<Element
+			CID = "1554320688"
+			Type = "Icon"
+			X = "180"
+			Y = "196"
+			Width = "50"
+			Height = "50"
+			Flags = "3"
+			RootPath = "$Container"
+			Filename = "icos\Miscellaneous\login_128px_1210124_easyicon.net.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
+		<Element
+			CID = "1882002334"
+			Type = "Icon"
+			X = "410"
+			Y = "201"
+			Width = "16"
+			Height = "16"
+			Flags = "3"
+			RootPath = "$Container"
+			Filename = "icos\Miscellaneous\down_125px_1150310_easyicon.net.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
+		<Element
+			CID = "2056857643"
+			Type = "StaticText"
+			X = "411"
+			Y = "220"
+			Width = "49"
+			Height = "21"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "21,66,139,0,39"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "找回密码"
+			IsDisabled = "0"
+			IsHyperlink = "0"
+			Fill = "None"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "2056875292"
+			Type = "Icon"
+			X = "124"
+			Y = "98"
+			Width = "32"
+			Height = "32"
+			Flags = "3"
+			RootPath = "$Container"
+			Filename = "icos\Miscellaneous\view_128px_1215461_easyicon.net.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
+		<Element
+			CID = "1135084136"
+			Type = "EditBox"
+			X = "232"
+			Y = "220"
+			Width = "178"
+			Height = "21"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = " 请输入密码（6-20个字符）"
+			IsDisabled = "0"
+			IsReadOnly = "0"
+			IsTransparent = "0"
+			HasBorder = "1"
+			HorzAlign = "Left"
+			EditType = "Text"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "255,255,153,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "164,185,127,0,12"/>
+	</Elements>
+	<Connections
+		CID = "2"/>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "1251617097"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>

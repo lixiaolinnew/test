@@ -1,0 +1,85 @@
+<Screen
+	CID = "2961503"
+	AppID = "2"
+	AppVer = "4.1.109.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "800"
+	Height = "600"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "1547658874"
+			Type = "WebPage"
+			X = "23"
+			Y = "19"
+			Width = "774"
+			Height = "575"
+			Flags = "0"
+			BackgroundColour = "255,255,255,0,0"
+			BorderColour = "160,160,160,0,0"
+			MarginLeft = "30"
+			MarginRight = "30"
+			MarginTop = "30"
+			MarginBottom = "30"
+			BorderWidth = "0"
+			PageHeight = "0"/>
+		<Element
+			CID = "1547657959"
+			Type = "StaticText"
+			X = "53"
+			Y = "97"
+			Width = "714"
+			Height = "467"
+			Flags = "0"
+			FillColour = "240,240,240,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = "Verdana"
+			FontAttributes = "0"
+			TextSize = "120"
+			Text = "To better comply with Windows standards, the Sample project files have now been moved to your shared documents folder.&#13;&#10;&#13;&#10;In earlier versions, the Samples were located within the program install folder (this folder), e.g.:&#13;&#10;&#13;&#10;   C:\Program Files\GUI Design Studio\Samples\&#13;&#10;&#13;&#10;&#13;&#10;For version 4.0, they are in a shared documents folder for all users. On Windows XP, this will be:&#13;&#10;&#13;&#10;   C:\Documents and Settings\All Users\Documents\GUI Design Studio\Samples\&#13;&#10;&#13;&#10;&#13;&#10;On Windows 7 and Vista, this will be:&#13;&#10;&#13;&#10;   C:\Users\Public\Documents\GUI Design Studio\Samples\&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;For new projects, you may also want to consider linking to Library projects rather than the &quot;Standard Components&quot; sample (for the original Tutorial, just use the Samples project). Libraries are also located in your shared documents folder.&#13;&#10;"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Left"
+			VertAlign = "Top"/>
+		<Element
+			CID = "1547660848"
+			Type = "StaticText"
+			X = "53"
+			Y = "49"
+			Width = "714"
+			Height = "31"
+			Flags = "0"
+			FillColour = "240,240,240,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = "Verdana"
+			FontAttributes = "1"
+			TextSize = "160"
+			Text = "The Sample Files Have Moved!"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Left"
+			VertAlign = "Top"/>
+	</Elements>
+	<Connections
+		CID = "2"/>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "2959043"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>

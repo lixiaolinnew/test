@@ -1,0 +1,13 @@
+To better comply with Windows standards, the Sample project files have now been moved to your shared documents folder.
+
+In earlier versions, the Samples were located within the program install folder (this folder), e.g.:
+   C:\Program Files\GUI Design Studio\Samples\
+
+For version 4.0, they are in a shared documents folder for all users. On Windows XP, this will be:
+   C:\Documents and Settings\All Users\Documents\GUI Design Studio\Samples\
+
+On Windows 7 and Vista, this will be:
+   C:\Users\Public\Documents\GUI Design Studio\Samples\
+
+
+For new projects, you may also want to consider linking to Library projects rather than the "Standard Components" sample (for the original Tutorial, just use the Samples project). Libraries are also located in your shared documents folder.
